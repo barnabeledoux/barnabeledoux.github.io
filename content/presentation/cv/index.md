@@ -1,10 +1,9 @@
 ---
 title: "CV" 
 #date: 0000-10-03
-tags: []
 author: ["Barnabe Ledoux"]
-description: "I’m currently a PhD student in physics at ESPCI with David Lacoste on the topic of “Growth in uncertain environments”. My curriculum includes courses in statistical physics, biophysics and physics of complex systems. I am particularly keen to integrate environmental considerations into my training, and hope to reconcile my research with these concerns during my PhD"
-summary: "I’m currently a PhD student in physics at ESPCI with David Lacoste on the topic of “Growth in uncertain environments”. My curriculum includes courses in statistical physics, biophysics and physics of complex systems. I am particularly keen to integrate environmental considerations into my training, and hope to reconcile my research with these concerns during my PhD"
+description: "PhD candidate in physics at the Gulliver Laboratory in ESPCI, with David Lacoste, on the topic “Growth in uncertain environments”. My curriculum includes courses in statistical physics, biophysics and physics of complex systems. I am particularly keen to integrate environmental considerations into my training, and hope to reconcile my research with these concerns during my PhD. I work at the frontier between physics and biology, but also economics." 
+summary: "PhD candidate in physics at the Gulliver Laboratory in ESPCI, with David Lacoste, on the topic “Growth in uncertain environments”. My curriculum includes courses in statistical physics, biophysics and physics of complex systems. I am particularly keen to integrate environmental considerations into my training, and hope to reconcile my research with these concerns during my PhD. I work at the frontier between physics and biology, but also economics."
 cover:
     #image: "book1.png"
     alt: "CV"
@@ -16,9 +15,9 @@ disableAnchoredHeadings: false
 
 #### Description
 
-I’m currently a PhD student in physics at ESPCI with David Lacoste on the topic of “Growth in uncertain environments”. My curriculum
-includes courses in statistical physics, biophysics and physics of complex systems. I am particularly keen to integrate environmental
-considerations into my training, and hope to reconcile my research with these concerns during my PhD
+ + PhD candidate in physics at the Gulliver Laboratory in ESPCI, with David Lacoste, on the topic “Growth in uncertain environments”. My curriculum includes courses in statistical physics, biophysics and physics of complex systems. I am particularly keen to integrate environmental considerations into my training, and hope to reconcile my research with these concerns during my PhD. I work at the frontier between physics and biology, but also economics.
+
+ + I love forests, trees, animals and music. Free Palestine.
 
 ---
 

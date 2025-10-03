@@ -1,6 +1,6 @@
 ---
-title: "Inhibition of bacterial growth by antibiotics: a minimal model - 2025" 
-#date: 2000-01-01
+title: "Inhibition of bacterial growth by antibiotics: a minimal model"
+#date: "2024-04-01"
 tags: ["antibiotics", "growth laws", "autocatalysis", "inhibition"]
 author: ["April 2025 - Barnabe Ledoux","David Lacoste"]
 description: "We build an autocatalytic framework to understand growth inhibition by bacteriostatic antibiotics." 
