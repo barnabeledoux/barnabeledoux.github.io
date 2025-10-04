@@ -19,4 +19,4 @@ We develop a macro-financial model that establishes a link between credit dynami
 
 ##### Poster
 
-+ [Poster](poster_limits_july.pdf)
++ [Poster](poster_limits_ecothermo.pdf)
