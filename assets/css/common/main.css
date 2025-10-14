@@ -86,7 +86,6 @@ pre:hover .copy-code {
 
 body {
     background-image: url('/background1_dark_low.png') !important;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
 }
