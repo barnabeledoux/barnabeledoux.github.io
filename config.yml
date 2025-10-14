@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://barnabeledoux.github.io" 
+title: Barnabe Ledoux
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -7,32 +7,33 @@ enableRobotsTXT: true
 pagination:
   pagerSize: 20
 
+
+output: 
+  xaringan::moon_reader:
+    seal: false
+    
 taxonomies:
     tag: tags
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Presentation
+          url: presentation/
+          weight: 1
+        - name: Publications
+          url: publications/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Posters
+          url: posters/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        - name: Talks
+          url: talks/
+          weight: 4
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    description: "This website hosts Barnabe Ledoux's research papers, curriculum vitae, lectures and contact information."
+    author: Barnabe Ledoux
+    DateFormat: "January 2025"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -44,7 +45,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["presentation","publications","posters","talks"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -53,51 +54,45 @@ params:
     comments: false
     math: true
     profileMode:
-          enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        enabled: true
+        title: Barnabe Ledoux
+        subtitle: "PhD candidate in physics at the Gulliver Laboratory in ESPCI, with David Lacoste, on the topic “Growth in uncertain environments”. My curriculum
+          includes courses in statistical physics, biophysics and physics of complex systems. I am particularly keen to integrate environmental
+          considerations into my training, and hope to reconcile my research with these concerns during my PhD. I work at the frontier between physics and 
+          biology, but also economics."
+        imageUrl: "photo2.jpeg"
+        imageWidth: 160
+        imageHeight: 160
+        backgroundClass: "profile-frame" # Add a custom class
+        buttons:
+          - name: Presentation
+            url: presentation/
+          - name: Publications
+            url: publications/
+          - name: Posters
+            url: posters/
+          - name: Talks
+            url: talks/
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: CV_Barnabe_Ledoux.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: mailto:barnabe.ledoux@espci.fr
+        #- name: Zoom
+        #  url: https://www.zoom.us/my/igelfeld
+        #- name: Location
+        #  url: location/
+        #- name: Office Hours
+        #  url: officehours/
+        #- name: Google Scholar
+        #  url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        #- name: GitHub
+        #  url: https://github.com/pmichaillat
+        - name: Linkedin
+          url: https://www.linkedin.com/in/barnabé-ledoux
+        - name: ORCID
+          url: https://orcid.org/0009-0005-1072-5886
 
     assets:
         disableScrollBarStyle: true
@@ -105,8 +100,8 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
+      text: "Barnabe Ledoux"
+      icon: icon.ico
       iconHeight: 18
 
 markup:
