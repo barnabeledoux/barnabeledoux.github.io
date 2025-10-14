@@ -1,7 +1,7 @@
 .footer,
 .top-link {
     font-size: var(--footersize);
-    color: var(--secondary);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .footer {
@@ -22,7 +22,7 @@
 }
 
 .footer a {
-    color: var(--secondary);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .footer a:hover {
@@ -50,10 +50,17 @@
 
 .footer a:hover,
 .top-link:hover {
-    color: var(--secondary);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .top-link:focus,
 #theme-toggle:focus {
     outline: 0;
+}
+
+body {
+    background-image: url('/background1_dark_low.png') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }

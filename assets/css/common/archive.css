@@ -42,6 +42,13 @@
 
 .archive-count,
 .archive-meta {
-    color: var(--secondary);
+    color: rgba(0, 0, 0, 0.6);
     font-size: 14px;
+}
+
+body {
+    background-image: url('/background1_dark_low.png') !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }

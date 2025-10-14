@@ -1,6 +1,8 @@
 .page-header,
 .post-header {
     margin: 24px auto var(--content-gap) auto;
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 8px;
 }
 
 .post-title {
@@ -11,11 +13,13 @@
 .post-description {
     margin-top: 10px;
     margin-bottom: 5px;
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 8px;
 }
 
 .post-meta,
 .breadcrumbs {
-    color: var(--secondary);
+    color: rgba(0, 0, 0, 0.8);
     font-size: 15px;
 }
 
@@ -23,13 +27,16 @@
     display: inline-flex;
     list-style: none;
     margin: auto 3px;
-    box-shadow: 0 1px 0 var(--secondary);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.8);
+    color: rgba(0,0,0,0.8) !important;
 }
 
 .post-content {
     color: var(--content);
     line-height: var(--lineheight);
     font-size: var(--textsize);
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 8px;
 }
 
 .post-content h3,
@@ -57,19 +64,19 @@
     font-size: 15px;    
     font-weight: var(--semibold);
     text-transform: uppercase;
-    color: var(--gray);
+    color: rgba(0, 0, 0, 0.8);
 }
 
 .post-content h5 {
     font-size: 14px;
     font-weight: var(--semibold);
     text-transform: uppercase;
-    color: var(--gray);
+    color: rgba(0, 0, 0, 0.8);
 }
 
 .post-content h6 {
     font-size: var(--footersize);
-    color: var(--secondary);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .post-content a,
@@ -215,7 +222,7 @@
     display: grid;
     margin: auto 0;
     padding: 10px;
-    color: var(--secondary);
+    color: rgba(0, 0, 0, 0.6);
     border-radius: var(--radius);
     overflow-x: auto;
     word-break: break-all;
@@ -224,13 +231,13 @@
 .post-content blockquote {
     margin: 20px 0;
     padding: 0 20px;
-    color: var(--secondary);    
+    color: rgba(0, 0, 0, 0.6);    
     border-inline-start: 6px solid var(--tertiary);
 }
 
 .post-content hr {
     margin: 30px 0;
-    height: 2px;
+    height: 0px;
     background: var(--tertiary);
     border: 0;
 }
@@ -260,7 +267,7 @@
 }
 
 .post-content figure > figcaption > p {
-    color: var(--secondary);
+    color: rgba(0, 0, 0, 0.6);
     font-size: 14px;
     font-weight: normal;
 }
@@ -342,7 +349,7 @@
 .post-tags a {
     display: block;
     padding: 0 10px;
-    color: var(--secondary);
+    color: rgba(0, 0, 0, 0.6);
     font-size: 16px;
     line-height: 32px;
     background: var(--code-bg);
@@ -398,14 +405,14 @@ h6:hover .anchor {
     padding-inline-start: 15px;
     padding-inline-end: 15px;
     border-radius: var(--radius);
-    color: var(--secondary);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .paginav .title {
     letter-spacing: 1px;
     text-transform: uppercase;
     font-size: small;
-    color: var(--secondary);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .paginav .prev,

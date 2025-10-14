@@ -1,7 +1,7 @@
 .footer,
 .top-link {
     font-size: 12px;
-    color: var(--secondary);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .footer {
@@ -23,7 +23,7 @@
 
 .footer a {
     color: inherit;
-    border-bottom: 1px solid var(--secondary);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.6);
 }
 
 .footer a:hover {
