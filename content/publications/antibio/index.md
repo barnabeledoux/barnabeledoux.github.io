@@ -12,6 +12,8 @@ summary: "We build an autocatalytic framework to understand growth inhibition by
 editPost:
     URL: "https://doi.org/10.48550/arXiv.2501.02944"
     Text: "ArXiv"
+    URL: "https://iopscience.iop.org/article/10.1088/1478-3975/ae1343"
+    Text: "Publisher"
 
 ---
 
@@ -27,6 +29,9 @@ targeting antibiotics. Interestingly, below a certain threshold in terms of anti
 a coexistence between two values of the growth rate is possible, which has also been observed experimentally. 
 Interesting extensions of the model include the antagonistic effect of two drugs targeting different 
 autocatalytic cycles or the production of an inhibiting waste.
+
+<a href="https://doi.org/10.48550/arXiv.2501.02944"> ArXiv </a>, 
+<a href="https://iopscience.iop.org/article/10.1088/1478-3975/ae1343"> Publisher </a>
 
 ---
 
