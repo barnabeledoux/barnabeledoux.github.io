@@ -1,5 +1,5 @@
 ---
-title: "Compositional memory matters for early molecular systems - SFP Physics & Life Days 2025" 
+title: "Compositional memory matters for early molecular systems - SFP Physics & Life Days/Paris Biological Physics Community Day 2025" 
 #date: 2013-01-15
 tags: ["compartments","parasites","origin of life"]
 author: ["Barnabe Ledoux", "David Lacoste"]
@@ -16,7 +16,7 @@ cover:
 
 ##### Download
 
-+ [Presentation](Compositional_memory_LEDOUX_physics_&_life.pdf)
++ [Presentation](Compositional_memory_LEDOUX_PBPCD_2025.pdf)
 
 ---
 
