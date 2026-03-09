@@ -19,11 +19,14 @@ editPost:
 
 Despite decades of climate policy and rapid improvements in energy efficiency, global CO2 emissions continue to rise, suggesting the presence of structural drivers that offset efficiency gains. Here we identify financial leverage as a key mechanism underpinning this persistent overshoot. We develop a stochastic macro-financial model linking credit dynamics, economic growth, bankruptcy risk, and cumulative carbon emissions. The model shows that debt-financed growth systematically amplifies cumulative emissions, locking economies into high-carbon trajectories even as emissions intensity declines. This arises from a double constraint: debt repayment requires sustained growth, while growth remains energy-dependent and thus generates emissions. When growth becomes increasingly dependent on leverage, financial instability and cumulative emissions rise, while gains in real wealth diminish, revealing a leverage frontier beyond which additional credit primarily generates risk. Calibrating the model to multi-decade data for the US, China, France and Denmark, we find a robust coupling between debt accumulation, cumulative GDP and cumulative emissions across distinct economic structures. These results indicate that achieving net-zero targets requires aligning credit allocation with decarbonisation objectives
 
+
+<a href="https://doi.org/10.48550/arXiv.2512.05063"> ArXiv </a>,
+
 ---
 
 ##### Spiral
 
-![center](fdebtcarbon_spiral.png)
+![center](debtcarbon_spiral.png)
 
 ---
 

@@ -10,8 +10,8 @@ summary: "We build an autocatalytic framework to understand growth inhibition by
 #    alt: "Growth laws"
 #    relative: true
 editPost:
-    URL: "https://doi.org/10.48550/arXiv.2501.02944"
-    Text: "ArXiv"
+    #URL: "https://doi.org/10.48550/arXiv.2501.02944"
+    #Text: "ArXiv"
     URL: "https://iopscience.iop.org/article/10.1088/1478-3975/ae1343"
     Text: "Publisher"
 
