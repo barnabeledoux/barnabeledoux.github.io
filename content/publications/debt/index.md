@@ -10,7 +10,7 @@ summary: "Despite decades of climate policy and rapid improvements in energy eff
 #    alt: "Debt-carbon spiral"
 #    relative: true
 editPost:
-    URL: "https://doi.org/10.48550/arXiv.2512.05063
+    URL: "https://doi.org/10.48550/arXiv.2512.05063"
     Text: "ArXiv"
 
 ---
