@@ -8,9 +8,9 @@ description: "With the development of microfluidics, it has now become possible 
 #    image: "figure4-1.png"
 #    alt: "Comparison to experiments"
 #    relative: true
-editPost:
-    URL: "https://principlescellphysiology.org/book-economic-principles/pdf/chapter-AUT-screen.pdf"
-    Text: "Economic principles in cell biology"
+#editPost:
+#    URL: "https://principlescellphysiology.org/book-economic-principles/pdf/chapter-AUT-screen.pdf"
+#    Text: "Economic principles in cell biology"
 
 ---
 
