@@ -30,10 +30,6 @@ menu:
           url: talks/
           weight: 4
 
-meta:
-  - name: "google-site-verification"
-    content: "cgBSaL_Fb_4Gw_8htBAgyfZGKjMGBt5RL6GR84Kp2MA"
-
 params:
     description: "This website hosts Barnabe Ledoux's research papers, curriculum vitae, lectures and contact information."
     author: Barnabe Ledoux
