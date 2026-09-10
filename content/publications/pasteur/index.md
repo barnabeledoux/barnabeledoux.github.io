@@ -10,7 +10,7 @@ description: "With the development of microfluidics, it has now become possible 
 #    relative: true
 editPost:
     URL: "https://link.aps.org/doi/10.1103/hg5y-tqv"
-    Text: "PNAS"
+    Text: "PRE"
 
 ---
 
