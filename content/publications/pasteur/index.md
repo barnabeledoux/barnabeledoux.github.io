@@ -28,3 +28,15 @@ With the development of microfluidics, it has now become possible to assess the 
 ##### Citation
 
 ```BibTeX
+@article{hg5y-tqvt,
+  title = {Growth bistability in small bacterial populations exposed to antibiotics},
+  author = {Ledoux, B. and Lacoste, D.},
+  journal = {Phys. Rev. E},
+  pages = {},
+  year = {2026},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/hg5y-tqvt},
+  url = {https://link.aps.org/doi/10.1103/hg5y-tqvt}
+}
+
