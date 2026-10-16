@@ -12,9 +12,11 @@ metrics are used in isolation. Our results contribute to the interpretation of d
 #    image: "two_contrib_kuwait-1.png"
 #    alt: "Two contributions for carbon intensity in Kuwait"
 #    relative: true
-#editPost:
+editPost:
 #    URL: "https://principlescellphysiology.org/book-economic-principles/pdf/chapter-AUT-screen.pdf"
 #    Text: "Economic principles in cell biology"
+    URL: "https://doi.org/10.1088/2515-7620/aeb47f"
+    Text: "Publisher"
 
 ---
 
@@ -26,11 +28,13 @@ in the trajectory of Kuwait’s carbon intensity. We find a pronounced, short-li
 contemporaneous recession. The episode showcases that war-related impacts can distort decarbonisation indicators and potentially mislead policy interpretation when territorial
 metrics are used in isolation. Our results contribute to the interpretation of decarbonisation progress and the allocation of responsibility for emissions in times of polycrisis.
 
+<a href="https://doi.org/10.1088/2515-7620/aeb47f"> ERC </a>
+
 ---
 
 ##### Two contributions in Kuwait from theory
 
-![center](two_contrib_kuwait-1.png)
+![center](fig_pipeline.png)
 
 ---
 
